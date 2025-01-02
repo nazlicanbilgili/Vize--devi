@@ -1,0 +1,28 @@
+body{
+    background-color: #fff4e0
+    ;
+}
+h1{
+    color: #068587;
+    text-align: center
+}
+hr {border-color: blueviolet;}
+
+blockquote {color: #112F41}
+
+
+mark {background-color: #FAC4E2
+}
+a {color:#ED553B}
+
+h2{ color: #F2B134;}
+h3{ color: #F2B134;}
+
+.paragraf1 { background-color: rgba(79, 185, 159,0.5); font-size: 20px;
+color: red; };
+
+.paragraf2 { font-style: italic;}
+
+.iletisim{text-align: center; }
+h4{text-align: center; color: #F2B134}
+blockquote{text-align: center;};
