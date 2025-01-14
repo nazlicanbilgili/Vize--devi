@@ -1,28 +1,29 @@
 body{
-    background-color: #fff4e0
+    background-color: #fff4e0  /* arka plan rengini belirlemek */
     ;
 }
 h1{
-    color: #068587;
-    text-align: center
+    color: #068587;  /* metin rengini belirlemek */
+    text-align: center /* metni sayfaya ortalamak */
 }
-hr {border-color: blueviolet;}
+hr {border-color: blueviolet;} /* çizgi rengini değiştirmek  */
 
-blockquote {color: #112F41}
+blockquote {color: #112F41} /* metin rengini değiştirmek */
 
 
-mark {background-color: #FAC4E2
-}
-a {color:#ED553B}
+mark {background-color: #FAC4E2} /* vurgu rengini değiştirmek  */
+a {color:#ED553B} /* metin rengini değiştirmek */
 
-h2{ color: #F2B134;}
-h3{ color: #F2B134;}
+h2{ color: #F2B134;} /* Başlık rengini değiştirmek */
+h3{ color: #F2B134;} /* Başlık rengini değiştirmek */
 
-.paragraf1 { background-color: rgba(79, 185, 159,0.5); font-size: 20px;
-color: red; };
+.paragraf1 { background-color: rgba(79, 185, 159,0.5); /* Paragrafın arka plan rengini değiştirmek */
+     font-size: 20px; /* Yazı boyutunu değiştirmek */
+     color: red; }; /* Metin rengini Değiştirmek */
 
-.paragraf2 { font-style: italic;}
+.paragraf2 { font-style: italic;} /* Yazı stilini değiştirmek */
 
-.iletisim{text-align: center; }
-h4{text-align: center; color: #F2B134}
-blockquote{text-align: center;};
+.iletisim{text-align: center; } /* Metin konumunu değiştirmek */
+h4{text-align: center; /* Metin konumunu değiştirmek */
+     color: #F2B134} /* Metin rengini değiştirmek */
+blockquote{text-align: center;} /* Metin konumunu değiştirmek */
